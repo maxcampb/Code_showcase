@@ -4,7 +4,7 @@ Max Campbell
 
 ## The Motivation
 
-The purpose of this repository is to showcase my coding skills to potential collaborators and employers. Naturally, I have written a lot of code that is private and belongs to various organisations. This repository holds some examples of chunks of code that I have written. The primary language that I have written code in is [R](https://github.com/maxcampb/Code_showcase/R_code), however, I intend to add some examples in other languages in the future. My key coding skills are:
+The purpose of this repository is to showcase my coding skills to potential collaborators and employers. Naturally, I have written a lot of code that is private and belongs to various organisations. This repository holds some examples of chunks of code that I have written. The primary language that I have written code in is [R](https://github.com/maxcampb/Code_showcase/tree/master/R_code), however, I intend to add some examples in other languages in the future. My key coding skills are:
 
 * Functional programming
 * Data wrangling and working with different complex data structures (including lists, matrices/arrays, vectors, data frames, s3 and s4 objects in R)

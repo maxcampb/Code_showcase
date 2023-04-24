@@ -20,4 +20,8 @@ The purpose of this repository is to showcase my coding skills to potential coll
 
 The key packages I use are base R, tidyverse, mgcv, lme4, purrr, ggplot2, rlang, parallel and nlme.
 
+<<<<<<< Updated upstream
 If you want to checkout public repositories where I am a major collaborator check out Olivia King's [Changing Multistressor Interactions](https://github.com/oliviakpj/Changing_multistressor_interactions) repository or Mischa Turschwell's [Seagrass multiple stressors](https://github.com/mpturschwell/Seagrass_multiple_stressors).
+=======
+If you want to checkout public repositories where I am a major collaborator check out Olivia King's [Changing Multistressor Interactions](https://github.com/oliviakpj/Changing_multistressor_interactions) repository, Mischa Turschwell's [Seagrass multiple stressors](https://github.com/mpturschwell/Seagrass_multiple_stressors) or for some statistical modelling my repository [Bergmann Rule Copepods](https://github.com/maxcampb/Bergmann-Rule-Copepods).
+>>>>>>> Stashed changes
